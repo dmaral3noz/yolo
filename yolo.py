@@ -7,7 +7,7 @@ except IndexError:
     print ("usage python3 " + sys.argv[0] + " YoloUserName")
     sys.exit(2)
 
-url = "http://onyolo.com/parse/classes/_User/"+user
+url = "http://onyolo.com/parse/classes/_User/"loly2426
 
 print("""
  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄            ▄▄▄▄▄▄▄▄▄▄▄                                      
